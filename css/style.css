@@ -1,5 +1,27 @@
+.navbar {
+    background: rgb(255, 224, 236);
+}
+
 .logo-img {
     width: 80px;
     height: 80px;
     border-radius: 50%;
+}
+
+/*section*/
+.Sobre {
+    background: rgb(201, 201, 255);
+}
+
+.Padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.img_sec {
+    border-radius: 50%;
+}
+
+#rodape {
+    background: rgb(255, 224, 236);
 }
